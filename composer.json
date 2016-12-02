@@ -1,5 +1,5 @@
 {
-    "name": "fennb/phirehose",
+    "name": "n3m0/phirehose",
     "description": "A PHP interface to the Twitter Streaming API.",
     "keywords": ["phirehose", "php", "twitter", "streaming", "api"],
     "type": "library",
